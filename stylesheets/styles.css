@@ -37,8 +37,10 @@ h3 {
 p {
   font-family: "Avenir Next";
   font-size: 18px;
-  text-align: left;
   color: #9EA6B1;
+}
+.pheader {
+  text-align: left;
   width: 470px;
   height: 150px;
 }
@@ -239,4 +241,11 @@ footer {
   position: relative;
   top: 20px;
   left: 273px;
+}
+.skills {
+  text-align: center;
+  /*justify-content: center;*/
+}
+.img-center {
+  vertical-align: middle;
 }
